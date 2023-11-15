@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/nav_sach"
+        android:title="Quản lý sách"
+        android:icon="@drawable/book"/>
+
+    <item
+        android:id="@+id/nav_thanhVien"
+        android:title="Thành viên"
+        android:icon="@drawable/group"/>
+    <item
+        android:id="@+id/nav_pm"
+        android:title="Phiếu mượn"
+        android:icon="@drawable/receipt"/>
+
+    <item
+        android:id="@+id/nav_more"
+        android:title="Người dùng"
+        android:icon="@drawable/ic_person"/>
+
+</menu>
